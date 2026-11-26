@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.pem
+*.key
+*.bak
+.DS_Store
+stack_outputs.env
+user-data-*.sh
+*-lt-data.json
+*-policy.json
+trust-policy.json
